@@ -15,9 +15,10 @@ You can open the project using the free or pro version of Unity, modify the game
 
 
 ###Requirements
-Windows 8 or [Windows 8.1][1]
-[Visual Studio 2012][2]
-[Unity][3]
+
+ 1. Windows 8 or [Windows 8.1][1]
+ 2. [Visual Studio 2012][2] 
+ 3. [Unity][3]
 
   [1]: http://msdn.microsoft.com/en-US/windows/apps/br229516
   [2]: http://msdn.microsoft.com/en-us/dn369242
