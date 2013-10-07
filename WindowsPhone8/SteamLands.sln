@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamLands", "SteamLands\SteamLands.csproj", "{8F1EA4A3-0B57-4556-970D-D27298EA5B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Master|ARM = Master|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Debug|ARM.Build.0 = Debug|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Master|ARM.ActiveCfg = Master|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Master|ARM.Build.0 = Master|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Master|ARM.Deploy.0 = Master|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Release|ARM.ActiveCfg = Release|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Release|ARM.Build.0 = Release|ARM
+		{8F1EA4A3-0B57-4556-970D-D27298EA5B45}.Release|ARM.Deploy.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

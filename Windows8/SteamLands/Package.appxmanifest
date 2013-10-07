@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="21357CrustDevelopment.SteamLands" Publisher="CN=93144B56-C2B0-4A8A-B44F-6279227307B5" Version="1.0.0.6" ProcessorArchitecture="x86" />
+  <Properties>
+    <DisplayName>SteamLands</DisplayName>
+    <PublisherDisplayName>Crust Development</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="Template.exe" EntryPoint="SteamLands.App">
+      <VisualElements DisplayName="SteamLands" Logo="Assets\SquareTile.png" SmallLogo="Assets\SmallTile.png" Description="You got lost in the wrong streets of SteamLands. Survive." ForegroundText="light" BackgroundColor="#000000">
+        <DefaultTile ShortName="SteamLands" ShowName="noLogos" WideLogo="Assets\310.png" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>
